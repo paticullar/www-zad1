@@ -14,7 +14,7 @@ class Tree:
         self.details_link = details_link
 
     def to_md(self):
-        return f'### [{self.name}]({self.site_name}.md)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n'
+        return f'### [{self.name}](drzewa/{self.site_name}.md)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n'
 
     def to_md_details(self):
         req = requests.get(self.details_link)
@@ -44,8 +44,9 @@ def scrape(url):
         tree_list.append(Tree(name, desc, link))
         img_url = 'https://lasy.gov.pl' + tree.find('div', class_='tileImage').find('img')['src']
         img = requests.get(img_url).content
-        with open(f'images/{tree_list[-1].site_name}.jpg', 'wb') as f:
+        with open(f'website/images/{tree_list[-1].site_name}.jpg', 'wb') as f:
             f.write(img)
+        print(f'Scraped {name}')
     return tree_list
 
 
@@ -56,10 +57,11 @@ def main():
     trees.extend(scrape(URL + '24'))
 
     for tree in trees:
-        with open(f'{tree.site_name}.md', 'w') as f:
+        with open(f'website/drzewa/{tree.site_name}.md', 'w') as f:
             f.write(tree.to_md_details())
+        print(f'Created subpage for {tree.name}')
 
-    with open('trees.md', 'w') as f:
+    with open('website/listadrzew.md', 'w') as f:
         f.write('# Drzewa w Polsce\n')
 
         f.write('## Opis\n')
