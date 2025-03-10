@@ -2,6 +2,7 @@ import requests
 import bs4
 from unidecode import unidecode
 from googlesearch import search
+from time import sleep
 
 URL = 'https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa?b_start:int='
 
@@ -14,10 +15,11 @@ class Tree:
         self.details_link = details_link
 
     def to_md(self):
-        return f'### [{self.name}](drzewa/{self.site_name}.md)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n'
+        return f'### [{self.name}](drzewa/{self.site_name}.markdown)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n'
 
     def to_md_details(self):
         req = requests.get(self.details_link)
+        sleep(2)
         soup = bs4.BeautifulSoup(req.content, 'html.parser')
         paragraphs = soup.find('div', id='parent-fieldname-text').find_all('p')
         ret = f'# {self.name}\n\n---\n{self.desc}\n\n---\n'
@@ -44,6 +46,7 @@ def scrape(url):
         tree_list.append(Tree(name, desc, link))
         img_url = 'https://lasy.gov.pl' + tree.find('div', class_='tileImage').find('img')['src']
         img = requests.get(img_url).content
+        sleep(2)
         with open(f'website/images/{tree_list[-1].site_name}.jpg', 'wb') as f:
             f.write(img)
         print(f'Scraped {name}')
@@ -57,11 +60,11 @@ def main():
     trees.extend(scrape(URL + '24'))
 
     for tree in trees:
-        with open(f'website/drzewa/{tree.site_name}.md', 'w') as f:
+        with open(f'website/drzewa/{tree.site_name}.markdown', 'w') as f:
             f.write(tree.to_md_details())
         print(f'Created subpage for {tree.name}')
 
-    with open('website/listadrzew.md', 'w') as f:
+    with open('website/index.markdown', 'w') as f:
         f.write('# Drzewa w Polsce\n')
 
         f.write('## Opis\n')
