@@ -19,3 +19,9 @@ Warto wiedzieć: Wierzba jest bardzo popularną roślina leczniczą. Jej kora za
  Najgrubsza wierzba biała w Lasach Państwowych [>>]
 
 ## Wierzba biała - wyniki:
+[https://pl.wikipedia.org/wiki/Wierzba_bia%C5%82a](https://pl.wikipedia.org/wiki/Wierzba_bia%C5%82a)
+
+[https://galeriaogrodowa.pl/produkt/wierzba-biala-salix-alba-2/](https://galeriaogrodowa.pl/produkt/wierzba-biala-salix-alba-2/)
+
+[https://en.wikipedia.org/wiki/Salix_alba](https://en.wikipedia.org/wiki/Salix_alba)
+

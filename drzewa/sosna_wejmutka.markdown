@@ -17,3 +17,9 @@ Sosna wejmutka dobrze rośnie na glebach gliniastych i piaszczysto-gliniastych. 
  Najgrubsza sosna wejmutka w Lasach Państwowych [>>]
 
 ## Sosna wejmutka - wyniki:
+[https://pl.wikipedia.org/wiki/Sosna_wejmutka](https://pl.wikipedia.org/wiki/Sosna_wejmutka)
+
+[https://www.drzewa.com.pl/sosna-wejmutka?srsltid=AfmBOorwAMUoEZiucRchgpf8G9CNHSBdqVEOHb5qsIPJUEz9vNhUP5HK](https://www.drzewa.com.pl/sosna-wejmutka?srsltid=AfmBOorwAMUoEZiucRchgpf8G9CNHSBdqVEOHb5qsIPJUEz9vNhUP5HK)
+
+[http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQQSxJNYZS-MYc0sxfefHzRNxgiNhVht4NvmBE5HiZp5IF2XyGDMr1XiNXKvPP3ovRo](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQQSxJNYZS-MYc0sxfefHzRNxgiNhVht4NvmBE5HiZp5IF2XyGDMr1XiNXKvPP3ovRo)
+

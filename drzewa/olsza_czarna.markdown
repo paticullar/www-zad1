@@ -31,3 +31,9 @@ Rozsiewanie: anemochoria, hydrochoria, zoochoria.
 Najgrubsza olsza czarna w Lasach Państwowych [>>]
 
 ## Olsza czarna - wyniki:
+[https://pl.wikipedia.org/wiki/Olsza_czarna](https://pl.wikipedia.org/wiki/Olsza_czarna)
+
+[https://en.wikipedia.org/wiki/Alnus_glutinosa](https://en.wikipedia.org/wiki/Alnus_glutinosa)
+
+[https://mojedrzewa.pl/atlas/olsza/olsza_czarna/olsza_czarna.php?mP=0&mKr=1&mKO1=1&mKO2=0](https://mojedrzewa.pl/atlas/olsza/olsza_czarna/olsza_czarna.php?mP=0&mKr=1&mKO1=1&mKO2=0)
+

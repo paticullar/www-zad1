@@ -23,3 +23,9 @@ Rozsiewanie: barochoria oraz zoochoria.
  
 
 ## Dąb bezszypułkowy - wyniki:
+[https://pl.wikipedia.org/wiki/D%C4%85b_bezszypu%C5%82kowy](https://pl.wikipedia.org/wiki/D%C4%85b_bezszypu%C5%82kowy)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/dab-bezszypulkowy](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/dab-bezszypulkowy)
+
+[https://en.wikipedia.org/wiki/Quercus_petraea](https://en.wikipedia.org/wiki/Quercus_petraea)
+

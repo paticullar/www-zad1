@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria.
  
 
 ## Lipa drobnolistna - wyniki:
+[https://pl.wikipedia.org/wiki/Lipa_drobnolistna](https://pl.wikipedia.org/wiki/Lipa_drobnolistna)
+
+[https://www.podkarpackiesady.pl/pl/p/Lipa-Drobnolistna/2478](https://www.podkarpackiesady.pl/pl/p/Lipa-Drobnolistna/2478)
+
+[https://en.wikipedia.org/wiki/Tilia_cordata](https://en.wikipedia.org/wiki/Tilia_cordata)
+

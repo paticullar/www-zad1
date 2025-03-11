@@ -21,3 +21,9 @@ Ciekawostka: Kawałki drewna gruszy i owoce tego drzewa są znajdowane w najstar
  
 
 ## Grusza pospolita - wyniki:
+[https://pl.wikipedia.org/wiki/Grusza_pospolita](https://pl.wikipedia.org/wiki/Grusza_pospolita)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/grusza-pospolita](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/grusza-pospolita)
+
+[https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30065762-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30065762-2)
+

@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria.
  
 
 ## Grab zwyczajny - wyniki:
+[https://pl.wikipedia.org/wiki/Grab_pospolity](https://pl.wikipedia.org/wiki/Grab_pospolity)
+
+[https://www.podkarpackiesady.pl/64-graby](https://www.podkarpackiesady.pl/64-graby)
+
+[https://plants.ces.ncsu.edu/plants/carpinus-betulus/](https://plants.ces.ncsu.edu/plants/carpinus-betulus/)
+

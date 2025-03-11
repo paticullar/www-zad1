@@ -19,3 +19,9 @@ Ciekawostka: Gatunek dość rzadki w Polsce, a w niektórych regionach bardzo rz
  
 
 ## Jabłoń dzika - wyniki:
+[https://pl.wikipedia.org/wiki/Jab%C5%82o%C5%84_dzika](https://pl.wikipedia.org/wiki/Jab%C5%82o%C5%84_dzika)
+
+[https://www.drzewa.com.pl/jablon-dzika-malus-sylvestris.html?srsltid=AfmBOoozhf5f1G43ZnW3983reJAAD8kd3YbkHTOOGtCKz7j5lsfBLcCA](https://www.drzewa.com.pl/jablon-dzika-malus-sylvestris.html?srsltid=AfmBOoozhf5f1G43ZnW3983reJAAD8kd3YbkHTOOGtCKz7j5lsfBLcCA)
+
+[https://en.wikipedia.org/wiki/Malus_sylvestris](https://en.wikipedia.org/wiki/Malus_sylvestris)
+

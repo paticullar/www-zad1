@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria i zoochoria.
  
 
 ## Jodła pospolita - wyniki:
+[https://pl.wikipedia.org/wiki/Jod%C5%82a_pospolita](https://pl.wikipedia.org/wiki/Jod%C5%82a_pospolita)
+
+[https://en.wikipedia.org/wiki/Abies_alba](https://en.wikipedia.org/wiki/Abies_alba)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jodla-pospolita](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jodla-pospolita)
+

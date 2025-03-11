@@ -21,3 +21,9 @@ Rozsiewanie: anemochoria.
 Najgrubszy jawor w Lasach Państwowych [>>]
 
 ## Klon jawor - wyniki:
+[https://pl.wikipedia.org/wiki/Klon_jawor](https://pl.wikipedia.org/wiki/Klon_jawor)
+
+[https://www.podkarpackiesady.pl/pl/p/Klon-JAWOR/2373](https://www.podkarpackiesady.pl/pl/p/Klon-JAWOR/2373)
+
+[https://www.klon.org.pl/](https://www.klon.org.pl/)
+

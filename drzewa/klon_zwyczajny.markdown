@@ -21,3 +21,9 @@ Rozsiewanie: anemochoria.
  Najgrubszy klon zwyczajny w Lasach Państwowych [>>]
 
 ## Klon zwyczajny - wyniki:
+[https://pl.wikipedia.org/wiki/Klon_zwyczajny](https://pl.wikipedia.org/wiki/Klon_zwyczajny)
+
+[https://www.podkarpackiesady.pl/pl/p/Klon-ZWYCZAJNY-pospolity/3358](https://www.podkarpackiesady.pl/pl/p/Klon-ZWYCZAJNY-pospolity/3358)
+
+[https://en.wikipedia.org/wiki/Acer_platanoides](https://en.wikipedia.org/wiki/Acer_platanoides)
+

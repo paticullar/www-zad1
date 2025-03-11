@@ -23,3 +23,9 @@ Rozsiewanie: zoochoria.
  
 
 ## Buk pospolity - wyniki:
+[https://pl.wikipedia.org/wiki/Buk_zwyczajny](https://pl.wikipedia.org/wiki/Buk_zwyczajny)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/buk-pospolity](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/buk-pospolity)
+
+[https://en.wikipedia.org/wiki/Fagus_sylvatica](https://en.wikipedia.org/wiki/Fagus_sylvatica)
+

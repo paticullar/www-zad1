@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria i zoochoria.
  
 
 ## Daglezja zielona - wyniki:
+[https://pl.wikipedia.org/wiki/Daglezja_zielona](https://pl.wikipedia.org/wiki/Daglezja_zielona)
+
+[https://www.drzewa.com.pl/daglezja-pseudotsuga?srsltid=AfmBOopX2DKhzgrsyPD_7AB0ifi8J9U2oBLPOFQC0FVo19eKnG5_LaQS](https://www.drzewa.com.pl/daglezja-pseudotsuga?srsltid=AfmBOopX2DKhzgrsyPD_7AB0ifi8J9U2oBLPOFQC0FVo19eKnG5_LaQS)
+
+[https://www.britannica.com/plant/Douglas-fir](https://www.britannica.com/plant/Douglas-fir)
+

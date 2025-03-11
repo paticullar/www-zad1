@@ -28,9 +28,9 @@ class Tree:
             ret += '\n\n'
 
         ret += f'## {self.name} - wyniki:\n'
-        # for site in search(self.name, stop=3):
-        #     sleep(10)
-        #     ret += f'[{site}]({site})\n\n'
+        for site in search(self.name, stop=3):
+            sleep(10)
+            ret += f'[{site}]({site})\n\n'
 
         return ret
 

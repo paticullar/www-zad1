@@ -21,3 +21,9 @@ Ciekawostka: Nie myl kasztanowca z kasztanem! Kasztan nie rośnie w Polsce, poni
  
 
 ## Kasztanowiec pospolity - wyniki:
+[https://pl.wikipedia.org/wiki/Kasztanowiec_pospolity](https://pl.wikipedia.org/wiki/Kasztanowiec_pospolity)
+
+[https://en.wikipedia.org/wiki/Aesculus_hippocastanum](https://en.wikipedia.org/wiki/Aesculus_hippocastanum)
+
+[https://www.podkarpackiesady.pl/pl/p/Kasztanowiec-ZWYCZAJNY/2460](https://www.podkarpackiesady.pl/pl/p/Kasztanowiec-ZWYCZAJNY/2460)
+

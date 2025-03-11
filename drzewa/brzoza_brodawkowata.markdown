@@ -27,3 +27,9 @@ Rozsiewanie: anemochoria i zoochoria.
  
 
 ## Brzoza brodawkowata - wyniki:
+[https://pl.wikipedia.org/wiki/Brzoza_brodawkowata](https://pl.wikipedia.org/wiki/Brzoza_brodawkowata)
+
+[https://www.drzewa.com.pl/brzoza-brodawkowata-brzoza-zwisa-betula-pendula.html?srsltid=AfmBOorREU7qz_ClvWrobdNvr0EZBzNeT701V8p-aXCigGpEMXBjQizV](https://www.drzewa.com.pl/brzoza-brodawkowata-brzoza-zwisa-betula-pendula.html?srsltid=AfmBOorREU7qz_ClvWrobdNvr0EZBzNeT701V8p-aXCigGpEMXBjQizV)
+
+[https://en.wikipedia.org/wiki/Betula_pendula](https://en.wikipedia.org/wiki/Betula_pendula)
+

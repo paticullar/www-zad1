@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria
  Najgrubszy wiąz szypułkowy w Lasach Państwowych [>>]
 
 ## Wiąz szypułkowy - wyniki:
+[https://pl.wikipedia.org/wiki/Wi%C4%85z_szypu%C5%82kowy](https://pl.wikipedia.org/wiki/Wi%C4%85z_szypu%C5%82kowy)
+
+[https://en.wikipedia.org/wiki/Ulmus_laevis](https://en.wikipedia.org/wiki/Ulmus_laevis)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/wiaz-szypulkowy](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/wiaz-szypulkowy)
+

@@ -25,3 +25,9 @@ Najgrubszy modrzew w Lasach Państwowych [>>]
  
 
 ## Modrzew europejski - wyniki:
+[https://pl.wikipedia.org/wiki/Modrzew_europejski](https://pl.wikipedia.org/wiki/Modrzew_europejski)
+
+[https://www.wlin.pl/las/atlas-drzew-i-krzewow/atlas-drzew/modrzew-europejski/](https://www.wlin.pl/las/atlas-drzew-i-krzewow/atlas-drzew/modrzew-europejski/)
+
+[https://en.wikipedia.org/wiki/Larix_decidua](https://en.wikipedia.org/wiki/Larix_decidua)
+

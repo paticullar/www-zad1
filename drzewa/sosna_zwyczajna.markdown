@@ -23,3 +23,9 @@ Zapylanie: roślina wiatropylna.
 Najgrubsza sosna zwyczajna w Lasach Państwowych [>>]
 
 ## Sosna zwyczajna - wyniki:
+[https://pl.wikipedia.org/wiki/Sosna_zwyczajna](https://pl.wikipedia.org/wiki/Sosna_zwyczajna)
+
+[https://en.wikipedia.org/wiki/Pinus_sylvestris](https://en.wikipedia.org/wiki/Pinus_sylvestris)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/sosna-zwyczajna](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/sosna-zwyczajna)
+

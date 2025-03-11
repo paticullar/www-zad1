@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria i hydrochoria.
  
 
 ## Jesion wyniosły - wyniki:
+[https://pl.wikipedia.org/wiki/Jesion_wynios%C5%82y](https://pl.wikipedia.org/wiki/Jesion_wynios%C5%82y)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jesion-wyniosly](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jesion-wyniosly)
+
+[https://en.wikipedia.org/wiki/Fraxinus_excelsior](https://en.wikipedia.org/wiki/Fraxinus_excelsior)
+

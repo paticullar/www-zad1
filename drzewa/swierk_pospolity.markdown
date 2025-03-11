@@ -25,3 +25,9 @@ Rozsiewanie: anemochoria i zoochoria.
 Najgrubszy świerk w Lasach Państwowych [>>]
 
 ## Świerk pospolity - wyniki:
+[https://pl.wikipedia.org/wiki/%C5%9Awierk_pospolity](https://pl.wikipedia.org/wiki/%C5%9Awierk_pospolity)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/swierk-pospolity](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/swierk-pospolity)
+
+[https://en.wikipedia.org/wiki/Picea_abies](https://en.wikipedia.org/wiki/Picea_abies)
+

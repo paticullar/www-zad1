@@ -17,3 +17,9 @@ Ciekawostka: Jeszcze niedawno wiąz polny rósł w miejskich parkach i alejach. 
 Najgrubszy wiąz polny w Lasach Państwowych [>>]
 
 ## Wiąz polny - wyniki:
+[https://pl.wikipedia.org/wiki/Wi%C4%85z_pospolity](https://pl.wikipedia.org/wiki/Wi%C4%85z_pospolity)
+
+[https://www.drzewa.com.pl/wiaz-ulmus/na-stanowisko-polcieniste?srsltid=AfmBOoqmioTOUe265tzMlyVUzKawpKpy2vUQwnv0Zm3MPCInVzCmTZB0](https://www.drzewa.com.pl/wiaz-ulmus/na-stanowisko-polcieniste?srsltid=AfmBOoqmioTOUe265tzMlyVUzKawpKpy2vUQwnv0Zm3MPCInVzCmTZB0)
+
+[https://en.wikipedia.org/wiki/Ulmus_minor](https://en.wikipedia.org/wiki/Ulmus_minor)
+

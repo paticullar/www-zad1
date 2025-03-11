@@ -19,3 +19,9 @@ Warto wiedzieć: Olsza szara jest gatunkiem pionierskim. Oznacza to, że jako pi
 Najgrubsza olsza szara w Lasach Państwowych [>>]
 
 ## Olsza szara - wyniki:
+[https://pl.wikipedia.org/wiki/Olsza_szara](https://pl.wikipedia.org/wiki/Olsza_szara)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/olsza-szara](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/olsza-szara)
+
+[https://en.wikipedia.org/wiki/Alnus_incana](https://en.wikipedia.org/wiki/Alnus_incana)
+

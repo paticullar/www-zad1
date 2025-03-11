@@ -25,3 +25,9 @@ Ciekawostka: W liściach czereśni występuje witamina C.
  
 
 ## Czereśnia ptasia - wyniki:
+[https://pl.wikipedia.org/wiki/Wi%C5%9Bnia_ptasia](https://pl.wikipedia.org/wiki/Wi%C5%9Bnia_ptasia)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/czeresnia-ptasia](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/czeresnia-ptasia)
+
+[https://en.wikipedia.org/wiki/Prunus_avium](https://en.wikipedia.org/wiki/Prunus_avium)
+

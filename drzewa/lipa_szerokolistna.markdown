@@ -25,3 +25,9 @@ Najgrubsza lipa szerokolistna w Lasach Państwowych [>>]
  
 
 ## Lipa szerokolistna - wyniki:
+[https://pl.wikipedia.org/wiki/Lipa_szerokolistna](https://pl.wikipedia.org/wiki/Lipa_szerokolistna)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/lipa-szerokolistna](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/lipa-szerokolistna)
+
+[https://en.wikipedia.org/wiki/Tilia_platyphyllos](https://en.wikipedia.org/wiki/Tilia_platyphyllos)
+

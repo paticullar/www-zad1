@@ -23,3 +23,9 @@ Ciekawostka: Pączki topoli białej mają właściwości lecznicze. Działają 
 Najgrubsza topola biala w Lasach Państwowych [>>]
 
 ## Topola biała - wyniki:
+[https://pl.wikipedia.org/wiki/Topola_bia%C5%82a](https://pl.wikipedia.org/wiki/Topola_bia%C5%82a)
+
+[https://en.wikipedia.org/wiki/Populus_alba](https://en.wikipedia.org/wiki/Populus_alba)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/topola-biala](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/topola-biala)
+

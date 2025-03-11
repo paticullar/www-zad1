@@ -21,3 +21,9 @@ Ciekawostka: Jarząb brekinia zaczyna owocować dopiero w wieku 15 lat. Od tego 
  
 
 ## Jarząb brekinia - wyniki:
+[https://pl.wikipedia.org/wiki/Jarz%C4%85b_brekinia](https://pl.wikipedia.org/wiki/Jarz%C4%85b_brekinia)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jarzab-brekinia](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/jarzab-brekinia)
+
+[https://en.wikipedia.org/wiki/Torminalis](https://en.wikipedia.org/wiki/Torminalis)
+

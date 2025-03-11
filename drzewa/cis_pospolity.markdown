@@ -25,3 +25,9 @@ Ciekawostki: Z cisów wydobywa się substancje, z których produkuje się prepar
  
 
 ## Cis pospolity - wyniki:
+[https://pl.wikipedia.org/wiki/Cis_pospolity](https://pl.wikipedia.org/wiki/Cis_pospolity)
+
+[https://en.wikipedia.org/wiki/Taxus_baccata](https://en.wikipedia.org/wiki/Taxus_baccata)
+
+[https://www.drzewa.com.pl/cis-taxus?srsltid=AfmBOoobegEgffO6RNygPAotJMFc8GWc7U8ymGfrbtxVkOKLqpV23qX_](https://www.drzewa.com.pl/cis-taxus?srsltid=AfmBOoobegEgffO6RNygPAotJMFc8GWc7U8ymGfrbtxVkOKLqpV23qX_)
+

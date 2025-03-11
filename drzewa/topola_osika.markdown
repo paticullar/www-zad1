@@ -25,3 +25,9 @@ Rozsiewanie: anemochoria.
 Najgrubsza topola osika w Lasach Państwowych [>>]
 
 ## Topola osika - wyniki:
+[https://pl.wikipedia.org/wiki/Topola_osika](https://pl.wikipedia.org/wiki/Topola_osika)
+
+[https://en.wikipedia.org/wiki/Populus_tremula](https://en.wikipedia.org/wiki/Populus_tremula)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/topola-osika](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/topola-osika)
+

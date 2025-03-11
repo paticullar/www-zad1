@@ -27,3 +27,9 @@ Rozsiewanie: barochoria oraz zoochoria.
  
 
 ## Dąb szypułkowy - wyniki:
+[https://pl.wikipedia.org/wiki/D%C4%85b_szypu%C5%82kowy](https://pl.wikipedia.org/wiki/D%C4%85b_szypu%C5%82kowy)
+
+[https://en.wikipedia.org/wiki/Quercus_robur](https://en.wikipedia.org/wiki/Quercus_robur)
+
+[https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/dab-szypulkowy](https://www.lasy.gov.pl/pl/edukacja/lesnoteka-1/drzewa/dab-szypulkowy)
+

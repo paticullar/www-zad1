@@ -23,3 +23,9 @@ Rozsiewanie: anemochoria i zoochoria.
 Najgrubsza robinia w Lasach Państwowych [>>]
 
 ## Robinia akacjowa - wyniki:
+[https://pl.wikipedia.org/wiki/Robinia_akacjowa](https://pl.wikipedia.org/wiki/Robinia_akacjowa)
+
+[https://www.sadowniczy.pl/pol_m_DRZEWA-LISCIASTE_Akacje-Robinie-22755.html](https://www.sadowniczy.pl/pol_m_DRZEWA-LISCIASTE_Akacje-Robinie-22755.html)
+
+[https://en.wikipedia.org/wiki/Robinia_pseudoacacia](https://en.wikipedia.org/wiki/Robinia_pseudoacacia)
+
