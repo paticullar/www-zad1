@@ -49,7 +49,7 @@ def scrape(url):
         img_url = 'https://lasy.gov.pl' + tree.find('div', class_='tileImage').find('img')['src']
         img = requests.get(img_url).content
         # sleep(10)
-        with open(f'website/images/{tree_list[-1].site_name}.jpg', 'wb') as f:
+        with open(f'images/{tree_list[-1].site_name}.jpg', 'wb') as f:
             f.write(img)
         print(f'Scraped {name}')
     return tree_list
@@ -62,11 +62,11 @@ def main():
     trees.extend(scrape(URL + '24'))
 
     for tree in trees:
-        with open(f'website/drzewa/{tree.site_name}.markdown', 'w') as f:
+        with open(f'drzewa/{tree.site_name}.markdown', 'w') as f:
             f.write(tree.to_md_details())
         print(f'Created subpage for {tree.name}')
 
-    with open('website/index.markdown', 'w') as f:
+    with open('index.markdown', 'w') as f:
         f.write('---\nlayout: home\n---\n\n')
         f.write('# Drzewa w Polsce\n\n')
 
