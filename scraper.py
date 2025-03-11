@@ -15,21 +15,22 @@ class Tree:
         self.details_link = details_link
 
     def to_md(self):
-        return f'### [{self.name}](drzewa/{self.site_name}.markdown)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n'
+        return f'\n### [{self.name}](drzewa/{self.site_name}.html)\n![{self.name}](images/{self.site_name}.jpg)\n\n{self.desc}\n\n'
 
     def to_md_details(self):
         req = requests.get(self.details_link)
-        sleep(2)
+        # sleep(10)
         soup = bs4.BeautifulSoup(req.content, 'html.parser')
         paragraphs = soup.find('div', id='parent-fieldname-text').find_all('p')
-        ret = f'# {self.name}\n\n---\n{self.desc}\n\n---\n'
+        ret = f'---\nlayout: page\n---\n\n# {self.name}\n\n---\n{self.desc}\n\n---\n'
         for p in paragraphs:
             ret += p.text
             ret += '\n\n'
 
         ret += f'## {self.name} - wyniki:\n'
-        for site in search(self.name, stop=3):
-            ret += f'[{site}]({site})\n\n'
+        # for site in search(self.name, stop=3):
+        #     sleep(10)
+        #     ret += f'[{site}]({site})\n\n'
 
         return ret
 
@@ -37,6 +38,7 @@ class Tree:
 def scrape(url):
     tree_list = []
     req = requests.get(url)
+    # sleep(10)
     soup = bs4.BeautifulSoup(req.content, 'html.parser')
     trees = soup.find_all('article', class_='tileItem')
     for tree in trees:
@@ -46,7 +48,7 @@ def scrape(url):
         tree_list.append(Tree(name, desc, link))
         img_url = 'https://lasy.gov.pl' + tree.find('div', class_='tileImage').find('img')['src']
         img = requests.get(img_url).content
-        sleep(2)
+        # sleep(10)
         with open(f'website/images/{tree_list[-1].site_name}.jpg', 'wb') as f:
             f.write(img)
         print(f'Scraped {name}')
@@ -65,13 +67,14 @@ def main():
         print(f'Created subpage for {tree.name}')
 
     with open('website/index.markdown', 'w') as f:
-        f.write('# Drzewa w Polsce\n')
+        f.write('---\nlayout: home\n---\n\n')
+        f.write('# Drzewa w Polsce\n\n')
 
         f.write('## Opis\n')
         f.write('**Drzewa** są roślinami wieloletnimi, mającymi zdrewniały jeden pęd główny (pień) lub kilka pędów '
                 'głównych i gałęzi, tworzących koronę. To największe lądowe rośliny, rekordziści osiągają ponad 100 '
                 'metrów wysokości. Drzewo nie jest jednostką systematyczną, to tylko grupa podobnych organizmów '
-                'roślinnych. Drzewa istnieją na ziemi od 370 milionów lat. Nauka o drzewach to **dendrologia**.\n')
+                'roślinnych. Drzewa istnieją na ziemi od 370 milionów lat. Nauka o drzewach to **dendrologia**.\n\n')
 
         f.write('## Podział drzew\n')
         f.write('Tradycyjnie stosuje się podział na:\n')
@@ -82,7 +85,7 @@ def main():
                 'miłorząb dwuklapowy i przęśl.\n')
         f.write('- **Drzewa liściaste** to drzewa z grupy roślin okrytonasiennych. Mają stosunkowo szerokie blaszki '
                 'liści. Występują głównie w ciepłym i umiarkowanym klimacie. W klimacie umiarkowanym najczęściej '
-                'zrzucają liście na zimę.\n')
+                'zrzucają liście na zimę.\n\n')
 
         f.write('## Gatunki drzew w Polsce\n')
         for tree in trees:
